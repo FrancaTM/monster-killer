@@ -71,7 +71,7 @@ function attackMonster(mode) {
 }
 
 function attackHandler() {
-  attackMonster(ATTACK_VALUE);
+  attackMonster(MODE_ATTACK);
 }
 
 function strongAttackHandler() {
